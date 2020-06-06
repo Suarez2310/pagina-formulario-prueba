@@ -115,7 +115,7 @@
     <div class="container">
         <h3 class="subtitulo">Entrevista Al Emprendedor</h3>
     </div>
-    <form action="enviar.php" method="POST">
+    <form method="POST">
         <div class="container">
             <label for="Nombre">Hola muy buenos dias ¿cual es su nombre?</label>
             <input type="text" name="nombre" placeholder="Escriba Su Nombre" class="form-control cuadro" minlength="7" name="Nombre">
@@ -235,7 +235,9 @@
         </div><br>
         <input type="submit" value="Enviar" id="boton" class="btn btn-outline-warning centrarboton">
     </form>
-    
+    <?php
+    include("enviar.php")
+    ?>
 
 
 
