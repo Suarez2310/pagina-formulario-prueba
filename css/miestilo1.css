@@ -1,0 +1,71 @@
+.tituloprincipal{
+    text-align: center;
+    color: rgb(255, 0, 21);
+    font-size: 40px;
+}
+
+.parrafo{
+    text-align: justify;
+    color: rgb(0, 242, 250);
+    text-decoration: rgb(252, 0, 176);
+    font-size: 15px;
+}
+.subtitulo{
+    text-align: center;
+    color: rgba(119, 9, 146, 0.63);
+    font-style: oblique;
+    font-size: 20px;
+}
+.p{
+    text-align: justify;
+    color: white;
+    font-size:15px;
+}
+
+body {
+    background: rgb(136, 136, 136);
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.colour {
+    color: rgb(224, 6, 224);
+}
+div{
+    text-align: justify;
+    color:rgb(241, 241, 241);
+    
+}
+img {
+    width: auto;
+    height: auto;
+    display: block;
+    border-color: violet;
+}
+
+.tabla {
+    margin-left: 15%;
+}
+.raya {
+    border-color: white;
+}
+.tabla2 {
+    text-align: initial;
+    margin-right: 15%;
+    width: 300px;
+    height: 300px;
+}
+.tabla3 {
+    text-align: above;
+}
+.raya2 {
+    border-color: deeppink
+}
+.parrafo2 {
+    text-align: left;
+    color: greenyellow;
+    font-size: 15px;
+}
+.subtitulo2 {
+    text-align: center;
+    color: rgba(126, 11, 155, 0.63);
+    font-size: 50px;
+}

@@ -1,0 +1,18 @@
+body {
+   background-color: grey;
+}
+.tituloprincipal {
+    text-align: center;
+    color: thistle;
+}
+.subtitulo {
+    color: springgreen;
+    font-size: 30px;
+}
+.parrafo{
+    color: peachpuff;
+
+}
+.raya{
+    border-color: skyblue;
+}

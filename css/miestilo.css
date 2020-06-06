@@ -1,0 +1,119 @@
+.tituloprincipal{
+    text-align: center;
+    color: rgb(17, 0, 255);
+    font-size: 60px;
+}
+
+.parrafo{
+    text-align: justify;
+    color: rgb(253, 253, 253);
+    text-decoration: rgb(252, 0, 176);
+    font-size: 15px;
+}
+.subtitulo{
+    text-align: left;
+    color: rgba(0, 174, 255, 0.87);
+    font-style: oblique;
+    font-size: 30px;
+}
+.p{
+    text-align: justify;
+    color: white;
+    font-size:15px;
+}
+
+body {
+    background: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+.colour {
+    color: rgb(224, 6, 224);
+}
+div{
+    text-align: justify;
+    color:rgb(241, 241, 241);
+    
+}
+img {
+    width: auto;
+    height: auto;
+    display: block;
+    border-color: violet;
+}
+
+.tabla {
+    margin-left: 15%;
+}
+.raya {
+    border-color: white;
+}
+.tabla2 {
+    text-align: initial;
+    margin-right: 15%;
+    width: 300px;
+    height: 300px;
+}
+.tabla3 {
+    text-align: above;
+}
+.raya2 {
+    border-color: deeppink
+}
+.parrafo2 {
+    text-align: left;
+    color: greenyellow;
+    font-size: 15px;
+}
+.subtitulo2 {
+    text-align: center;
+    color: rgba(204, 0, 255, 0.63);
+    font-style: oblique;
+    font-size: 50px;
+}
+.centrartitulo {
+    text-align: center;
+    color: darkgoldenrod;
+    font-size: 30px;
+}
+.centrarboton {
+    margin-left: 45%;
+}
+.cuadro {
+    background-color: white;
+}
+.cuadro2{
+    background-color: black;
+}
+.cuadro3{
+    background-color: slateblue;
+}
+.cuadro4{
+    background-color: slategray;
+}
+.cuadro5{
+    background-color: springgreen;
+}
+.p2{
+    color: slategray;
+}
+.div4{
+    left: 25%;
+
+}
+.leyla{
+    color: rgba(0, 0, 255, 0.733);
+}
+.yurleidys{
+    color: yellow;
+}
+.menu{
+    color: black;
+}
+
+H1{
+    text-align: center;
+    color: #fff;
+    font-size: 40px;
+    background: rgba(0,0,0,0.4);
+    margin-top: 20px;
+}
